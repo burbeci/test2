@@ -1,4 +1,1 @@
-test2
-=====
-
-test2 repository
+This is the content of other branch
